@@ -37,20 +37,20 @@
 - **Software Engineering Student** - [UnB]
   
 ## Featured Projects
-- [**Government Trips**](https://github.com/JuliaGabP/BI_ViagensGov)
+- [**Government Trips**](https://github.com/DaviPierre/BI_ViagensGov)
   - Data Warehouse using Medallion architecture.
-- [**Portfolio website**](https://github.com/JuliaGabP/SitePortfolio)
+- [**Portfolio website**](https://github.com/DaviPierre/SitePortfolio)
   - Portfolio in website format.
 
 ## GitHub Stats
 
 <div align="center">
   <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuliaGabP&theme=merko" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviPierre&theme=merko" />
 </div>
 
 <div align="center" >
-![GitHub activity graph](https://ssr-contributions-svg.vercel.app/_/JuliaGabP?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&theme=merko) 
+![GitHub activity graph](https://ssr-contributions-svg.vercel.app/_/DaviPierre?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&theme=merko) 
 </div>
 
 <div align="center">
