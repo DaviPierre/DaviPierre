@@ -1,15 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=pixel&color=008000&height=90"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DaviPierre/DaviPierre/main/img/img-sup.gif" width="100%" alt="Header" />
+</div>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=008000&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Davi+Pierre;From+Brazil)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=008000&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Davi+Pierre;From+Brazil" alt="Typing SVG" />
+</div>
 
 <br>
 
 ## Contact
 
 <div align="center"> 
-<a href="<LINKEDIN LINK AQUI>" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davipierre/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
+</a>
 </div>
 
 ## Technologies and Tools
@@ -32,11 +38,9 @@
   
 ## Featured Projects
 - [**Government Trips**](https://github.com/JuliaGabP/BI_ViagensGov)
-  - This repository contains the development of a Data Warehouse using the Medallion architecture, applied to public data on official trips from the Brazilian Federal Government, obtained from the Transparency Portal.
+  - Data Warehouse using Medallion architecture.
 - [**Portfolio website**](https://github.com/JuliaGabP/SitePortfolio)
-  - Portfolio in website format, using HTML, CSS and Python.
-- [**Geometric Figures**](https://github.com/JuliaGabP/OrientacaoObjetos-UnB-2024-1)
-  - Object Oriented Project in Python aimed at creating, manipulating and analyzing geometric shapes in a Cartesian plane.
+  - Portfolio in website format.
 
 ## GitHub Stats
 
@@ -46,9 +50,9 @@
 </div>
 
 <div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/JuliaGabP?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1.4&animation_delay=0.05&animation_amplitude=15&animation_frequency=1.0&animation_wave_center=10_0&format=svg&weeks=20&theme=merko) 
-
+![GitHub activity graph](https://ssr-contributions-svg.vercel.app/_/JuliaGabP?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&theme=merko) 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=pixel&color=008000&height=90&section=footer"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DaviPierre/DaviPierre/main/img/img-inf.gif" width="100%" alt="Footer" />
+</div>
