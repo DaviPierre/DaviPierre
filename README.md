@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DaviPierre/DaviPierre/main/img/img-sup.gif" width="100%" alt="Header" />
+  <img src="img/img-sup.gif" width="100%" alt="Header" />
 </div>
 
 <br>
@@ -54,5 +54,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DaviPierre/DaviPierre/main/img/img-inf.gif" width="100%" alt="Footer" />
+  <img src="img/img-inf.gif" width="100%" alt="Footer" />
 </div>
