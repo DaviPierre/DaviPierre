@@ -37,10 +37,10 @@
 - **Software Engineering Student** - [UnB]
   
 ## Featured Projects
-- [**Government Trips**](https://github.com/DaviPierre/BI_ViagensGov)
+- [**Government Trips**](https://github.com/DaviPierre/UnB-BI-Viagens-do-Governo-2025)
   - Data Warehouse using Medallion architecture.
-- [**Portfolio website**](https://github.com/DaviPierre/SitePortfolio)
-  - Portfolio in website format.
+- [**Levenshtein Algorithm Optimization**](https://github.com/DaviPierre/SitePortfolio)
+  - Levenshtein beeing tested to its limits (on-going project).
 
 ## GitHub Stats
 
