@@ -49,8 +49,8 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviPierre&theme=merko" />
 </div>
 
-<div align="center" >
-![GitHub activity graph](https://ssr-contributions-svg.vercel.app/_/DaviPierre?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&theme=merko) 
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/DaviPierre?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&theme=merko" alt="GitHub activity graph" />
 </div>
 
 <div align="center">
