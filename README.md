@@ -4,11 +4,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=50&duration=5000&pause=200&color=008000&center=true&vCenter=true&width=1000&lines=Davi+Pierre+····+Davi+Pierre+····+Davi+Pierre+····" alt="Letreiro Davi Pierre" />
-</div>
-
-<br>
+ <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=40&duration=3500&pause=0&color=008000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Davi+Pierre+and+this+is+my+Github;Hi+im+Davi+Pierre+and+this+is+my+Github" alt="Letreiro Fluido" /> </div>
+ 
+  <br>
 
 ## Contact
 
