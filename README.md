@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=008000&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Davi+Pierre;From+Brazil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=50&duration=5000&pause=200&color=008000&center=true&vCenter=true&width=1000&lines=Davi+Pierre+····+Davi+Pierre+····+Davi+Pierre+····" alt="Letreiro Davi Pierre" />
 </div>
 
 <br>
@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/DaviPierre?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&theme=merko" alt="GitHub activity graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviPierre&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
